@@ -1,5 +1,6 @@
 a=int(input("Enter 1st number"))
 b=int(input("Enter 2nd number"))
+print("CALCULATOR:")
 print("ADDITION:it returns the addition",a+b)
 print("SUBTRACTION:it returns the subtraction",a-b)
 print("MULTIPLICATION:it returns the multiplication",a*b)
